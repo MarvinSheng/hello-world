@@ -1,2 +1,3 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
+This repository is for practicing the GitHub Flow.
+I'm Marvin, currently learning vibe coding. 
